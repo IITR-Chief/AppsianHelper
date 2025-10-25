@@ -23,7 +23,7 @@ vishrut3/
 
 ```bash
 # Clone and navigate to the repository
-cd /Users/prathamkailasiya/Downloads/vishrut3
+cd /Users/Downloads/vishrut3
 
 # Install .NET 8 (if not already installed)
 # brew install --cask dotnet  # macOS
