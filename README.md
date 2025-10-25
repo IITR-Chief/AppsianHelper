@@ -9,10 +9,10 @@ This repository contains three progressively advanced task management applicatio
 ## 📁 Project Structure
 
 ```
-vishrut3/
+vishrut/
 ├── assignment1-basic-task-manager/     # 10 credits - Basic Task Manager
 ├── assignment2-mini-project-manager/   # 20 credits - Project Manager with Auth
-├── assignment3-smart-scheduler-api/    # 30 credits - Smart Scheduler Enhancement
+├── assignment3-smart-scheduler-api/    # 10 credits - Smart Scheduler Enhancement
 └── README.md                          # This file
 ```
 
