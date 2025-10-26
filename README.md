@@ -1,14 +1,26 @@
+
 # Assignment Solutions - Task Management Applications
+
+
+
+**Bonus Links:**
+1: https://appsian-helper.vercel.app/
+2: https://appsian-helper-lpll.vercel.app/login
+3: https://appsian-helper-c66d.vercel.app/login
+
+![ss1](https://github.com/user-attachments/assets/b4b88ee4-df8a-490a-9f94-574aa0ed029c)
+![ss2](https://github.com/user-attachments/assets/ca8d629f-efc4-4b01-9b95-b4ef6a0dec8e)
+![ss3](https://github.com/user-attachments/assets/df7cb4d4-c3d5-492f-b4e5-ddee62b5d7dc)
 
 This repository contains three progressively advanced task management applications built with C# .NET 8 backend and React TypeScript frontend.
 
 ## 📁 Project Structure
 
 ```
-vishrut3/
+vishrut/
 ├── assignment1-basic-task-manager/     # 10 credits - Basic Task Manager
 ├── assignment2-mini-project-manager/   # 20 credits - Project Manager with Auth
-├── assignment3-smart-scheduler-api/    # 30 credits - Smart Scheduler Enhancement
+├── assignment3-smart-scheduler-api/    # 10 credits - Smart Scheduler Enhancement
 └── README.md                          # This file
 ```
 
@@ -23,7 +35,7 @@ vishrut3/
 
 ```bash
 # Clone and navigate to the repository
-cd /Users/prathamkailasiya/Downloads/vishrut3
+cd /Users/Downloads/vishrut3
 
 # Install .NET 8 (if not already installed)
 # brew install --cask dotnet  # macOS
@@ -159,7 +171,7 @@ Name: Test User
 
 ---
 
-## 🤖 Assignment 3: Smart Scheduler API (30 Credits)
+## 🤖 Assignment 3: Smart Scheduler API (10 Credits)
 
 Enhanced project manager with intelligent task scheduling and dependency management.
 
@@ -396,25 +408,5 @@ curl http://localhost:5002/api/v1/projects/sample/schedule/sample
 ```
 
 ---
-
-## 🏆 Assignment Completion Summary
-
-| Assignment | Credits | Features | Status |
-|------------|---------|----------|--------|
-| Basic Task Manager | 10 | ✅ All required + enhancements | **COMPLETE** |
-| Mini Project Manager | 20 | ✅ All required + mobile responsive | **COMPLETE** |  
-| Smart Scheduler API | 30 | ✅ All required + advanced algorithms | **COMPLETE** |
-| **Total** | **60** | **All deliverables met** | **READY FOR DEMO** |
-
----
-
-## 📞 Support Information
-
-For any issues during testing:
-
-1. **Check Prerequisites**: Ensure .NET 8 and Node.js 18+ are installed
-2. **Port Conflicts**: Make sure ports 5000, 5001, 5002, 3000 are available
-3. **Dependency Issues**: Run clean install commands above
-4. **Browser Issues**: Try Chrome/Firefox with developer tools open
 
 **Happy Testing! 🎉**
